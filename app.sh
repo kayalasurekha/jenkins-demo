@@ -2,7 +2,7 @@
 
 echo "Hello Rekha DevOps"
 
-if [ 5 -gt 3 ]; then
+if [ 3 -gt 5 ]; then
   echo "Test Passed"
 else
   echo "Test Failed"
