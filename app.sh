@@ -1,4 +1,3 @@
 #!/bin/bash
-
-echo "Forcing failure"
+echo "Forcing Failure"
 exit 1
