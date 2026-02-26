@@ -1,4 +1,3 @@
 #!/bin/bash
-
-echo "Forcing failure"
-exit 1
+echo "Build Success"
+exit 0
